@@ -1,10 +1,10 @@
 function linguagemDosAnimais(animal) { 
   if (animal == 'cachorro') 
-return 'au au' 
+    return 'au au' 
   else if (animal == 'gato') 
-return 'miau' 
+    return 'miau' 
   else if (animal == 'vaca') 
-return 'muuu' 
+    return 'muuu' 
   else  
-return 'Informe gato, cachorro ou vaca' 
+    return 'Informe gato, cachorro ou vaca' 
 } 
